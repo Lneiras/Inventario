@@ -27,7 +27,7 @@ El sistema guarda los productos registrados y permite visualizar la lista de pro
 3. Abre la carpeta del proyecto.
 
 4. Ejecuta el programa con el siguiente comando
-`python main.py`
+`python inventario.py`
 
 ## Estructura del proyecto
 
