@@ -20,15 +20,23 @@ El sistema guarda los productos registrados y permite visualizar la lista de pro
 ## Cómo Ejecutar el Programa
 
 1. Asegúrate de tener Python instalado en tu computador.
+   
+ > Para esto abre la terminal y escribe python --version o python3 --version.
+ >
+ >>Si está instalado, aparecerá el número de versión (ej. Python 3.x.x).
 
 2. Descarga o clona el repositorio del proyecto.
  - Ingresa a una terminal en tu escritorio.
  - Escribe git clone y pega este enlace del repositorio:
+   
    > git clone https://github.com/Lneiras/Inventario.git
-3. Ve a la carpeta donde se clonó el repositorio y abre una terminal nuevamente.
+   
+3. Ve a la carpeta donde se clonó el repositorio y abre una terminal desde la carpeta.
 4. Escribe **code .** para abrir el proyecto en VS Code.
 
 ## Cómo funciona el programa
+
+Una vez clones el repositorio y lo abras en VSCode, ve al archivo llamado `inventario.py` para que puedas correr el programa.
 
 Al iniciar el programa, se mostrará un menú para que veas las opciones disponibles.
 
