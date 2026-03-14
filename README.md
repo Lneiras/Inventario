@@ -5,6 +5,9 @@ La aplicación permite registrar productos ingresando el nombre del producto, la
 
 El sistema guarda los productos registrados y permite visualizar la lista de productos agregados. También incluye una opción para salir del programa.
 
+## Diagrama de flujo
+
+![This is an alt text.](https://raw.githubusercontent.com/Lneiras/Inventario/refs/heads/main/Diagrama%20de%20flujo.png.png)
 
 ## Funcionalidades
 
@@ -74,3 +77,4 @@ Inventario/
 - aspectos_visuales.py      # funciones y detalles para la visualización del usuario
 - README.md
 ```
+
