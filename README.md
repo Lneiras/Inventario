@@ -16,12 +16,18 @@ El sistema guarda los productos registrados y permite visualizar la lista de pro
 
 > _El programa cuenta con la información del **costo total** que multiplica la cantidad del producto por el precio unitario_
 
+## Requerimiento para desplegar el programa
+
+- Tener python instalado
+- Tener Git instalado
+- Tener acceso a github
+- Tener Visual studio code instalado (opcional)
 
 ## Cómo Ejecutar el Programa
 
 1. Asegúrate de tener Python instalado en tu computador.
    
- > Para esto abre la terminal y escribe python --version o python3 --version.
+ > Para esto abre la terminal **(Ctrl + Alt + T)** y escribe *python --version* o *python3 --version.*
  >
  >>Si está instalado, aparecerá el número de versión (ej. Python 3.x.x).
 
@@ -32,7 +38,10 @@ El sistema guarda los productos registrados y permite visualizar la lista de pro
    > git clone https://github.com/Lneiras/Inventario.git
    
 3. Ve a la carpeta donde se clonó el repositorio y abre una terminal desde la carpeta.
-4. Escribe **code .** para abrir el proyecto en VS Code.
+4. Para abrir el programa:
+   - Escribe **code .** para abrir el proyecto en VS Code
+      - Ve al archivo inventario.py y corre el archivo
+   - Escribe python3 inventario.py o python inventario.py si lo quieres correr directamente en la terminal
 
 ## Cómo funciona el programa
 
